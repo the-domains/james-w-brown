@@ -1,0 +1,28 @@
+name: James W Brown
+favicon: null
+layout_spectrum: 0.08731217752210796
+typography_spectrum: 0.6809765347279608
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3752423881087452
+  lightness: 0.7472270610742271
+  saturation: 0.10867317416705191
+  rhythmicContrast: 0.9918251992203295
+purpose: []
