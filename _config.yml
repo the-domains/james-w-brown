@@ -17,11 +17,11 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#3f4342'
-    - '#5ade23'
-    - '#9a9c9c'
-    - '#cacbcb'
-  brandStrength: 0.625
+    - '#b5b7b6'
+    - '#626765'
+    - '#60de2a'
+    - '#aeed8f'
+  brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.6875
   rhythmicContrast: 1
